@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099FF,100:0051FF&height=200&section=header&text=Mohamed%20Sarhan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20|%20Azure%20Architect&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099FF,100:0051FF&height=200&section=header&text=Mohamed%20Sarhan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20|%20Azure%20Solution%20Architect&descAlignY=55&descSize=20"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer;Azure+Solution+Architect;Kubernetes+%26+Docker+Expert;CI%2FCD+Pipeline+Specialist;Infrastructure+as+Code+Enthusiast" alt="Typing SVG" /></a>
@@ -25,7 +25,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Sarhan-Elhussieny&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Mohamed-Sarhan-Elhussieny?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Mohamed-Sarhan-Elhussieny?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
 </div>
@@ -50,27 +49,23 @@ const mohamedSarhan = {
     location: "Ismailia, Egypt 🇪🇬",
     education: "Electronics & Communications Engineering",
     university: "Suez Canal University",
+    graduationDate: "July 2024",
+    gpa: "3.27 (Very Good)",
     
     certifications: [
-        "Microsoft Certified: Azure Fundamentals (AZ-900) ☁️",
-        "Top DEPI Project Award 🏆"
+        "Microsoft Certified: Azure Fundamentals (AZ-900)",
+        "Digital Egypt Pioneers Initiative (DEPI)",
+        "Information Technology Institute (ITI)"
     ],
-    
-    achievements: {
-        capstoneProject: "Selected as Top Project",
-        presentedTo: "Ministry of ICT Officials",
-        gpa: "3.27 (Very Good)",
-        graduationProject: "Excellent"
-    },
     
     currentFocus: [
-        "Advanced Azure Architecture",
-        "Kubernetes Orchestration",
-        "Infrastructure Automation",
-        "CI/CD Pipeline Optimization"
+        "Azure Cloud Architecture",
+        "Kubernetes & Container Orchestration",
+        "CI/CD Pipeline Automation",
+        "Infrastructure as Code"
     ],
     
-    funFact: "Transitioned from Embedded Systems to Cloud Architecture! 🔄"
+    languages: ["Arabic (Native)", "English (Fluent)"]
 };
 ```
 
@@ -82,11 +77,10 @@ const mohamedSarhan = {
 
 <div align="center">
 
-### ☁️ Cloud Platforms & Services
+### ☁️ Cloud Platforms
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </p>
 
 ### 🔄 DevOps & Automation
@@ -114,20 +108,12 @@ const mohamedSarhan = {
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-### 🔧 Tools & Version Control
+### 🔧 Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-### 📊 Databases & Monitoring
-<p>
-  <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 </p>
 
 </div>
@@ -143,17 +129,17 @@ const mohamedSarhan = {
 <td width="50%">
 
 ### 🌟 Azure Infrastructure Deployment
-#### 🏅 Top DEPI Project - Ministry of ICT Award
+#### 🏅 DEPI Capstone - Top Project Award
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
 **Enterprise-Grade Cloud Infrastructure**
 
 - 🏗️ Complete Azure architecture design
-- ⚡ Azure VMs, VNets, Load Balancers
+- ⚡ Azure VMs, Virtual Networks, Load Balancers
 - 🔐 Active Directory integration
-- 💾 Azure SQL with backup solutions
-- 🛡️ Security hardening implementation
+- 💾 Azure SQL Database with backup solutions
+- 🛡️ Security configurations
 
 **Tech:** `Azure` `Terraform` `Ansible` `Docker`
 
@@ -164,13 +150,14 @@ const mohamedSarhan = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
-**Scalable Multi-Tier Application**
+**Scalable Web Application on Azure**
 
-- 🌐 Azure Load Balancer setup
-- 🐧 Multiple Linux VMs orchestration
-- 🗃️ High-availability SQL Database
+- 🌐 Azure Load Balancer configuration
+- 🐧 Multiple Azure Linux VMs
+- 🗃️ Azure SQL Database integration
 - 🔒 User authentication system
-- 🐳 Dockerized microservices
+- 🐳 Docker containerization
+- 📍 Public DNS mapping
 
 **Tech:** `Azure` `Docker` `SQL` `Linux` `DNS`
 
@@ -183,31 +170,31 @@ const mohamedSarhan = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
-**End-to-End Automation**
+**AWS EKS Deployment Automation**
 
-- ☸️ AWS EKS cluster deployment
+- ☸️ AWS EKS cluster with custom VPC
 - 🔧 Jenkins on Kubernetes pods
 - 🪝 GitHub webhook integration
-- 🐳 Automated Docker builds
-- 🚀 Continuous deployment pipeline
+- 🐳 Automated Docker image builds
+- 🚀 Continuous deployment to namespaces
 
-**Tech:** `AWS` `EKS` `Jenkins` `K8s` `Docker`
+**Tech:** `AWS` `EKS` `Jenkins` `Kubernetes` `Docker`
 
 </td>
 <td width="50%">
 
-### 🎯 More Projects Coming Soon...
+### 💻 More on GitHub
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
-**Currently Working On:**
+**Check out my repositories:**
 
-- 🌟 GitOps with ArgoCD
-- 📊 Observability Stack (ELK + Grafana)
-- 🔐 Zero-Trust Architecture
-- 🤖 Infrastructure Automation Templates
+- 🐳 **Cloud-azure** - Azure cloud projects
+- 🐧 **Embedded-Linux-2024** - Linux projects
+- 💻 **C_Programming_Projects** - C projects
+- ⚙️ **Interface_project_AVR** - AVR projects
 
-**Stay Tuned!** 🚀
+**Explore More!** 🚀
 
 </td>
 </tr>
@@ -239,17 +226,15 @@ const mohamedSarhan = {
 
 ---
 
-## 🎓 Certifications & Achievements
+## 🎓 Professional Training & Certifications
 
 <div align="center">
 
-| 🏆 Achievement | 📅 Date | 🔗 Details |
-|---------------|---------|-----------|
-| **Microsoft Certified: Azure Fundamentals** | June 2024 | AZ-900 (C1733U-8DF16F) |
-| **Top DEPI Capstone Project** | Dec 2024 | Presented to Ministry of ICT |
-| **DEPI Azure Solution Architect Track** | Apr-Dec 2024 | AZ-900, DP-900, AZ-104, AZ-305, AZ-500 |
-| **ITI Cloud Computing Track** | Jun-Aug 2023 | Linux, Docker, Kubernetes, AWS |
-| **Bachelor's Degree - Excellent Project** | July 2024 | GPA: 3.27 (Very Good) |
+| 🏆 Program/Certification | 📅 Date | 📍 Organization |
+|--------------------------|---------|-----------------|
+| **Microsoft Certified: Azure Fundamentals (AZ-900)** | June 2024 | Microsoft |
+| **Azure Solution Architect & DevOps Engineer** | Apr-Dec 2024 | DEPI |
+| **IT Infrastructure & Cloud Computing** | Jun-Aug 2023 | ITI |
 
 </div>
 
@@ -265,99 +250,30 @@ const mohamedSarhan = {
 
 ---
 
-## 💼 Professional Experience
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Software Developer] -->|Transition| B[Cloud Architecture]
-    B --> C[Azure Solutions]
-    B --> D[DevOps Engineering]
-    C --> E[Enterprise Projects]
-    D --> E
-    E --> F[Ministry of ICT Recognition]
-    
-    style A fill:#2d3748,stroke:#00D4FF,stroke-width:2px,color:#fff
-    style B fill:#1a365d,stroke:#00D4FF,stroke-width:2px,color:#fff
-    style C fill:#1e40af,stroke:#00D4FF,stroke-width:2px,color:#fff
-    style D fill:#1e40af,stroke:#00D4FF,stroke-width:2px,color:#fff
-    style E fill:#3b82f6,stroke:#00D4FF,stroke-width:2px,color:#fff
-    style F fill:#10b981,stroke:#FFD700,stroke-width:3px,color:#fff
-```
-
-</div>
-
----
-
-## 🎯 Current Learning Path
-
-<div align="center">
-
-```yaml
-2025_Goals:
-  Azure_Certifications:
-    - AZ-104: Azure Administrator ⏳
-    - AZ-305: Azure Solutions Architect Expert ⏳
-    - AZ-500: Azure Security Engineer ⏳
-  
-  Advanced_Skills:
-    - GitOps: [ArgoCD, FluxCD]
-    - Service_Mesh: [Istio, Linkerd]
-    - Observability: [ELK Stack, Grafana, Jaeger]
-    - Security: [HashiCorp Vault, Azure Key Vault]
-  
-  Contributing_To:
-    - Open Source Cloud Tools
-    - Terraform Modules
-    - Kubernetes Operators
-```
-
-</div>
-
----
-
-## 🤝 Let's Collaborate!
+## 🤝 Let's Connect!
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
-### 🌟 Open to Collaboration On:
+### 🌟 Open to Opportunities:
 
-🚀 **Cloud Infrastructure Projects** | ⚡ **DevOps Automation** | 🔧 **CI/CD Pipelines** | ☸️ **Kubernetes Solutions**
+**Cloud Engineer | DevOps Engineer | Azure Solutions Architect**
 
-### 💼 Currently Seeking:
-
-**Cloud Engineer | DevOps Engineer | Azure Solutions Architect Roles**
-
-</div>
-
----
-
-## 📫 Contact Me
-
-<div align="center">
+### 📫 Reach Me:
 
 <a href="https://www.linkedin.com/in/mohamed-sarhan7">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mohamedsarhan976@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Mohamed-Sarhan-Elhussieny">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### 💡 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-<br/>
-
-**⚡ "From bits to bytes, from circuits to clouds - Engineering excellence knows no bounds!"**
+**📍 Location:** Ismailia, Egypt 🇪🇬  
+**📧 Email:** mohamedsarhan976@gmail.com  
+**🔗 LinkedIn:** linkedin.com/in/mohamed-sarhan7
 
 </div>
 
@@ -365,19 +281,11 @@ graph LR
 
 <div align="center">
 
-### 🌟 Show Some Love!
-
-**If you like my work, consider:**
-
-⭐ **Starring my repositories**  
-👥 **Following me on GitHub**  
-🤝 **Connecting on LinkedIn**
+### ⚡ "Building scalable cloud solutions, one deployment at a time!"
 
 <br/>
 
-**📍 Location:** Ismailia, Egypt 🇪🇬  
-**📧 Email:** mohamedsarhan976@gmail.com  
-**🌐 Languages:** Arabic (Native) | English (Fluent)
+**Thanks for visiting! ⭐ Star my repos if you find them helpful!**
 
 </div>
 
