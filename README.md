@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099FF,100:0051FF&height=200&section=header&text=Mohamed%20Sarhan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Mohamed%20Sarhan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cloud%20and%20DevOps%20Engineer&descAlignY=55&descSize=20"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer;Azure+Solution+Architect;CI%2FCD+Pipeline+Specialist" alt="Typing SVG" /></a>
@@ -202,4 +202,4 @@ Certification Number: C1733U-8DF16F
 ---
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0051FF,50:0099FF,100:00D4FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer"/>
