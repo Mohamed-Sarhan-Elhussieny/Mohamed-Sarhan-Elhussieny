@@ -19,9 +19,6 @@
 </p>
 
 <!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Sarhan-Elhussieny&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
 
 </div>
 
@@ -35,12 +32,8 @@
 Electronics and Communications Engineering graduate with a strong foundation in networking, telecommunications, and cloud infrastructure. Microsoft Certified: Azure Administrator Associate professional with hands-on experience designing and deploying scalable cloud solutions on Azure and AWS.
 
 **🎓 Education:**
-- Bachelor of Engineering - Communication and Electronics, Suez Canal University (July 2025)
-- GPA: 3.27 (Very Good)
-- Graduation Project: Excellent
+- Bachelor of Engineering - Communication and Electronics
 
-**📍 Location:** Ismailia, Egypt  
-**🌐 Languages:** Arabic (Native), English (Fluent)
 
 <br clear="right"/>
 
@@ -99,6 +92,7 @@ Electronics and Communications Engineering graduate with a strong foundation in 
 </div>
 
 ---
+
 
 ## 🏆 Projects
 
@@ -185,12 +179,13 @@ Credential ID: 4FC1057ACD4D5E5 | Certification Number: F24967-16B5ET
 **Microsoft Certified: Azure Fundamentals (AZ-900)** - June 2025  
 Credential ID: B9E239CBEDC658EA | Certification Number: C1733U-8DF16F
 
----
-
-
-<br/><br/>
-
+<div align="center">
+<img src="./Screenshot%202026-08-17%20215821.png" width="45%" alt="Microsoft Certified: Azure Administrator Associate" />
+&nbsp;&nbsp;
+<img src="./Screenshot%202026-08-22%20122831.png" width="45%" alt="Microsoft Certified: Azure Fundamentals" />
 </div>
+
+---
 
 ---
 
