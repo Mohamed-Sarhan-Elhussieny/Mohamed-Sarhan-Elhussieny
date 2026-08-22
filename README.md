@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Mohamed%20Sarhan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cloud%20and%20DevOps%20Engineer&descAlignY=55&descSize=20"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer;Azure+Solution+Architect;CI%2FCD+Pipeline+Specialist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer;Azure+Administrator+Associate;CI%2FCD+Pipeline+Specialist" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -32,10 +32,10 @@
 
 ## 🚀 About Me
 
-Electronics and Communications Engineering graduate with a strong foundation in networking, telecommunications, and cloud infrastructure. Microsoft Certified: Azure Fundamentals professional with hands-on experience designing and deploying scalable cloud solutions on Azure and AWS.
+Electronics and Communications Engineering graduate with a strong foundation in networking, telecommunications, and cloud infrastructure. Microsoft Certified: Azure Administrator Associate professional with hands-on experience designing and deploying scalable cloud solutions on Azure and AWS.
 
 **🎓 Education:**
-- Bachelor of Engineering - Communication and Electronics, Suez Canal University (July 2024)
+- Bachelor of Engineering - Communication and Electronics, Suez Canal University (July 2025)
 - GPA: 3.27 (Very Good)
 - Graduation Project: Excellent
 
@@ -50,25 +50,28 @@ Electronics and Communications Engineering graduate with a strong foundation in 
 
 <div align="center">
 
+### ⭐ Core Tools
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
 ### ☁️ Cloud Platforms
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-### 🔄 DevOps & Automation
+### 🔄 Additional DevOps & Automation
 <p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
-
-### 📦 Containerization & Orchestration
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ### 💻 Programming & Scripting
@@ -84,13 +87,13 @@ Electronics and Communications Engineering graduate with a strong foundation in 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-### 🌐 Web Servers & Monitoring
+### 🌐 Web Servers
 <p>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
 </div>
@@ -168,34 +171,24 @@ Built automated deployment pipeline on AWS infrastructure:
 
 | 📚 Program | 🏢 Organization | 📅 Duration |
 |-----------|----------------|------------|
-| **Azure Solution Architect & DevOps Engineer** | Digital Egypt Pioneers Initiative (DEPI) | April 2024 – December 2024 |
+| **DevOps Engineer Track** | Digital Egypt Pioneers Initiative (DEPI) | July 2025 – December 2025 |
+| **Azure Solution Architect Track** | Digital Egypt Pioneers Initiative (DEPI) | July 2024 – December 2024 |
 | **IT Infrastructure & Cloud Computing Track** | Information Technology Institute (ITI) | June 2023 – August 2023 |
 
 </div>
 
 ### 📜 Certifications
 
-**Microsoft Certified: Azure Fundamentals (AZ-900)** - June 2024  
-Certification Number: C1733U-8DF16F
+**Microsoft Certified: Azure Administrator Associate** - August 2026  
+Credential ID: 4FC1057ACD4D5E5 | Certification Number: F24967-16B5ET 
+
+**Microsoft Certified: Azure Fundamentals (AZ-900)** - June 2025  
+Credential ID: B9E239CBEDC658EA | Certification Number: C1733U-8DF16F
 
 ---
 
-## 📫 Contact Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mohamed-sarhan7">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mohamedsarhan976@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 <br/><br/>
-
-**📧 Email:** mohamedsarhan976@gmail.com  
-**📱 Phone:** +20 01015860680  
-**📍 Location:** Ismailia, Egypt
 
 </div>
 
